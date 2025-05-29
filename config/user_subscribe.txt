@@ -67,6 +67,3 @@ http://dd.rihou.cc:555/gggg.nzk
 # https://github.com/1757580896 的地址
 https://raw.githubusercontent.com/1757580896/iptv-api1/refs/heads/master/output/result.txt
 https://raw.githubusercontent.com/1757580896/collect-tv-txt/refs/heads/main/live_lite.txt
-https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt
-https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u
-https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt
