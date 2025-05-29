@@ -34,10 +34,10 @@
 |hotel_page_num|酒店地区获取分页数量|1|
 |hotel_region_list|酒店源地区列表，"全部"表示所有地区|全部|
 |isp|接口运营商，用于控制结果中只包含填写的运营商类型，支持关键字过滤，英文逗号分隔，不填写表示不指定运营商||
-|ipv4_num|结果中偏好的IPv4接口数量||10
-|ipv6_num|结果中偏好的IPv6接口数量||0
+|ipv4_num|结果中偏好的IPv4接口数量||
+|ipv6_num|结果中偏好的IPv6接口数量||
 |ipv6_support|强制认为当前网络支持IPv6，跳过检测|False|
-|ipv_type|生成结果中接口的协议类型，可选值：ipv4、ipv6、全部、all|全部|ipv4
+|ipv_type|生成结果中接口的协议类型，可选值：ipv4、ipv6、全部、all|全部|
 |ipv_type_prefer|接口协议类型偏好，优先将该类型的接口排在结果前面，可选值：ipv4、ipv6、自动、auto|auto|ipv4
 |local_file|本地源文件路径|config/local.txt|config/user_local.txt
 |local_num|结果中偏好的本地源接口数量|10|
