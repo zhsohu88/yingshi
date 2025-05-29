@@ -41,8 +41,8 @@
 |ipv_type_prefer|接口协议类型偏好，优先将该类型的接口排在结果前面，可选值：ipv4、ipv6、自动、auto|auto|ipv4
 |local_file|本地源文件路径|config/local.txt|config/user_local.txt
 |local_num|结果中偏好的本地源接口数量|10|
-|min_resolution|接口最小分辨率，需要开启open_filter_resolution才能生效|1920x1080|1280x720
-|max_resolution|接口最大分辨率，需要开启open_filter_resolution才能生效|1920x1080|
+|min_resolution|接口最小分辨率，需要开启open_filter_resolution才能生效|1920x1080|854x480
+|max_resolution|接口最大分辨率，需要开启open_filter_resolution才能生效|1920x1080|19200x10800
 |min_speed|接口最小速率（单位M/s），需要开启open_filter_speed才能生效|0.5|
 |multicast_num|结果中偏好的组播源接口数量|10|
 |multicast_page_num|组播地区获取分页数量|1|
@@ -52,7 +52,7 @@
 |origin_type_prefer|结果偏好的接口来源，结果优先按该顺序进行排序，逗号分隔，例如：local,hotel,multicast,subscribe,online_search；local：本地源，hotel：酒店源，multicast：组播源，subscribe：订阅源，online_search：关键字搜索；不填写则表示不指定来源，按照接口速率排序||
 |recent_days|获取最近时间范围内更新的接口（单位天），适当减小可避免出现匹配问题|30|
 |request_timeout|查询请求超时时长，单位秒(s)，用于控制查询接口文本链接的超时时长以及重试时长，调整此值能优化更新时间|10|
-|speed_test_limit|同时执行测速的接口数量，用于控制测速阶段的并发数量，数值越大测速所需时间越短，负载较高，结果可能不准确；数值越小测速所需时间越长，低负载，结果较准确；调整此值能优化更新时间|10,40|
+|speed_test_limit|同时执行测速的接口数量，用于控制测速阶段的并发数量，数值越大测速所需时间越短，负载较高，结果可能不准确；数值越小测速所需时间越长，低负载，结果较准确；调整此值能优化更新时间|10|10,40
 |speed_test_timeout|单个接口测速超时时长，单位秒(s)；数值越大测速所需时间越长，能提高获取接口数量，但质量会有所下降；数值越小测速所需时间越短，能获取低延时的接口，质量较好；调整此值能优化更新时间|10|
 |speed_test_filter_host|测速阶段使用Host地址进行过滤，相同Host地址的频道将共用测速数据，开启后可大幅减少测速所需时间，但可能会导致测速结果不准确|False|True
 |source_file|模板文件路径|config/demo.txt|config/user_demo.txt
