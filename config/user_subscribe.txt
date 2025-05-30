@@ -56,6 +56,8 @@ http://8.138.7.223/2025.txt
 https://chuxinya.top/f/76vVIZ/流年直播源.txt
 # 极速电视(ADFX)6.5.2
 http://live.nctv.top/x.txt
+# 悠悠电视_1.0.3
+http://8.146.211.219:3000/private/iptv_source.txt
 
 # 猫TV 同源 肥猫 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)
 http://dd.rihou.cc:555/gggg.nzk
