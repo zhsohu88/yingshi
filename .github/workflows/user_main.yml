@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
     branches:
       - master
-      # - dev
-      # - gd
+      - dev
+      - gd
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
