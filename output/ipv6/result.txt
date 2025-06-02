@@ -790,9 +790,9 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕01,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 赛事咪咕01,http://nhljz.net:35455/itv/3000000001000005308.m3u8
 赛事咪咕01,http://www.terrykang.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+赛事咪咕01,http://tv.076262.xyz:35455/itv/3000000001000005308.m3u8
 赛事咪咕01,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 赛事咪咕01,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
-赛事咪咕01,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 赛事咪咕02,http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
 赛事咪咕02,http://61.160.112.102:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 赛事咪咕02,http://111.22.153.159:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
@@ -809,6 +809,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕03,http://58.39.190.143:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
 赛事咪咕03,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
 赛事咪咕03,http://nhljz.net:35455/itv/3000000001000007218.m3u8
+赛事咪咕03,http://tv.076262.xyz:35455/itv/3000000001000007218.m3u8
 赛事咪咕03,http://nas.suntao.online:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 赛事咪咕04,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
 赛事咪咕04,http://61.160.112.102:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
@@ -816,6 +817,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕04,http://58.39.190.143:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
 赛事咪咕04,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
 赛事咪咕04,http://nhljz.net:35455/itv/3000000001000008001.m3u8
+赛事咪咕04,http://tv.076262.xyz:35455/itv/3000000001000008001.m3u8
 赛事咪咕04,http://nas.suntao.online:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
 赛事咪咕05,http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
 赛事咪咕05,http://61.160.112.102:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
@@ -823,18 +825,21 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕05,http://58.39.190.143:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
 赛事咪咕05,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
 赛事咪咕05,http://nhljz.net:35455/itv/3000000001000008176.m3u8
+赛事咪咕05,http://tv.076262.xyz:35455/itv/3000000001000008176.m3u8
 赛事咪咕06,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 赛事咪咕06,http://61.160.112.102:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
 赛事咪咕06,http://111.22.153.159:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
 赛事咪咕06,http://58.39.190.143:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
 赛事咪咕06,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
 赛事咪咕06,http://nhljz.net:35455/itv/3000000001000008379.m3u8
+赛事咪咕06,http://tv.076262.xyz:35455/itv/3000000001000008379.m3u8
 赛事咪咕07,http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
 赛事咪咕07,http://61.160.112.102:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
 赛事咪咕07,http://111.22.153.159:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
 赛事咪咕07,http://58.39.190.143:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
 赛事咪咕07,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
 赛事咪咕07,http://nhljz.net:35455/itv/3000000001000010129.m3u8
+赛事咪咕07,http://tv.076262.xyz:35455/itv/3000000001000010129.m3u8
 赛事咪咕07,http://nas.suntao.online:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
 赛事咪咕08,http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
 赛事咪咕08,http://61.160.112.102:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
@@ -842,6 +847,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕08,http://58.39.190.143:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
 赛事咪咕08,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
 赛事咪咕08,http://nhljz.net:35455/itv/3000000001000010948.m3u8
+赛事咪咕08,http://tv.076262.xyz:35455/itv/3000000001000010948.m3u8
 赛事咪咕08,http://nas.suntao.online:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
 赛事咪咕10,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 赛事咪咕10,http://61.160.112.102:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
@@ -849,6 +855,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕10,http://58.39.190.143:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
 赛事咪咕10,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
 赛事咪咕10,http://nhljz.net:35455/itv/3000000001000028638.m3u8
+赛事咪咕10,http://tv.076262.xyz:35455/itv/3000000001000028638.m3u8
 赛事咪咕10,http://nas.suntao.online:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
 赛事咪咕11,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 赛事咪咕11,http://61.160.112.102:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
@@ -856,6 +863,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕11,http://58.39.190.143:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
 赛事咪咕11,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
 赛事咪咕11,http://nhljz.net:35455/itv/3000000001000031494.m3u8
+赛事咪咕11,http://tv.076262.xyz:35455/itv/3000000001000031494.m3u8
 赛事咪咕11,http://nas.suntao.online:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
 赛事咪咕12,http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
 赛事咪咕12,http://61.160.112.102:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
@@ -865,6 +873,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕12,http://nhljz.net:35455/itv/3000000010000000097.m3u8
 赛事咪咕12,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 赛事咪咕12,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8
+赛事咪咕12,http://tv.076262.xyz:35455/itv/3000000010000000097.m3u8
 赛事咪咕12,http://nas.suntao.online:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
 赛事咪咕13,http://61.160.112.102:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
 赛事咪咕13,http://111.22.153.159:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
@@ -873,6 +882,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕13,http://nhljz.net:35455/itv/3000000010000002019.m3u8
 赛事咪咕13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 赛事咪咕13,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
+赛事咪咕13,http://tv.076262.xyz:35455/itv/3000000010000002019.m3u8
 赛事咪咕13,http://nas.suntao.online:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
 赛事咪咕15,http://61.160.112.102:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 赛事咪咕15,http://111.22.153.159:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
@@ -881,6 +891,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕15,http://nhljz.net:35455/itv/3000000010000002809.m3u8
 赛事咪咕15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 赛事咪咕15,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227320/index.m3u8
+赛事咪咕15,http://tv.076262.xyz:35455/itv/3000000010000002809.m3u8
 赛事咪咕16,http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
 赛事咪咕16,http://61.160.112.102:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
 赛事咪咕16,http://111.22.153.159:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
@@ -889,6 +900,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕16,http://nhljz.net:35455/itv/3000000010000003915.m3u8
 赛事咪咕16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 赛事咪咕16,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227323/index.m3u8
+赛事咪咕16,http://tv.076262.xyz:35455/itv/3000000010000003915.m3u8
 赛事咪咕16,http://nas.suntao.online:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
 赛事咪咕17,http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
 赛事咪咕17,http://61.160.112.102:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
@@ -898,11 +910,13 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕17,http://nhljz.net:35455/itv/3000000010000004193.m3u8
 赛事咪咕17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 赛事咪咕17,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227326/index.m3u8
+赛事咪咕17,http://tv.076262.xyz:35455/itv/3000000010000004193.m3u8
 赛事咪咕20,http://61.160.112.102:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 赛事咪咕20,http://111.22.153.159:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 赛事咪咕20,http://58.39.190.143:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 赛事咪咕20,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
 赛事咪咕20,http://nhljz.net:35455/itv/3000000010000005837.m3u8
+赛事咪咕20,http://tv.076262.xyz:35455/itv/3000000010000005837.m3u8
 赛事咪咕20,http://nas.suntao.online:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 赛事咪咕21,http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
 赛事咪咕21,http://61.160.112.102:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
@@ -912,6 +926,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕21,http://nhljz.net:35455/itv/3000000010000006077.m3u8
 赛事咪咕21,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 赛事咪咕21,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227366/index.m3u8
+赛事咪咕21,http://tv.076262.xyz:35455/itv/3000000010000006077.m3u8
 赛事咪咕22,http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
 赛事咪咕22,http://61.160.112.102:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
 赛事咪咕22,http://111.22.153.159:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
@@ -920,12 +935,14 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕22,http://nhljz.net:35455/itv/3000000010000006658.m3u8
 赛事咪咕22,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 赛事咪咕22,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227369/index.m3u8
+赛事咪咕22,http://tv.076262.xyz:35455/itv/3000000010000006658.m3u8
 赛事咪咕25,http://61.160.112.102:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
 赛事咪咕25,http://111.22.153.159:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
 赛事咪咕25,http://58.39.190.143:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
 赛事咪咕25,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
 赛事咪咕25,http://nhljz.net:35455/itv/3000000010000009788.m3u8
 赛事咪咕25,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
+赛事咪咕25,http://tv.076262.xyz:35455/itv/3000000010000009788.m3u8
 赛事咪咕26,http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
 赛事咪咕26,http://61.160.112.102:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
 赛事咪咕26,http://111.22.153.159:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
@@ -934,6 +951,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕26,http://nhljz.net:35455/itv/3000000010000010833.m3u8
 赛事咪咕26,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
 赛事咪咕26,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8
+赛事咪咕26,http://tv.076262.xyz:35455/itv/3000000010000010833.m3u8
 赛事咪咕26,http://nas.suntao.online:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
 赛事咪咕28,http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
 赛事咪咕28,http://61.160.112.102:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
@@ -943,6 +961,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕28,http://nhljz.net:35455/itv/3000000010000011297.m3u8
 赛事咪咕28,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227378/index.m3u8
 赛事咪咕28,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
+赛事咪咕28,http://tv.076262.xyz:35455/itv/3000000010000011297.m3u8
 赛事咪咕28,http://nas.suntao.online:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
 赛事咪咕34,http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
 赛事咪咕34,http://61.160.112.102:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
@@ -952,6 +971,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕34,http://nhljz.net:35455/itv/3000000010000012558.m3u8
 赛事咪咕34,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 赛事咪咕34,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+赛事咪咕34,http://tv.076262.xyz:35455/itv/3000000010000012558.m3u8
 赛事咪咕34,http://nas.suntao.online:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
 赛事咪咕35,http://61.160.112.102:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
 赛事咪咕35,http://111.22.153.159:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
@@ -960,6 +980,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕35,http://nhljz.net:35455/itv/3000000010000012616.m3u8
 赛事咪咕35,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227384/index.m3u8
 赛事咪咕35,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+赛事咪咕35,http://tv.076262.xyz:35455/itv/3000000010000012616.m3u8
 赛事咪咕35,http://nas.suntao.online:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
 赛事咪咕36,http://61.160.112.102:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
 赛事咪咕36,http://58.39.190.143:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
@@ -967,6 +988,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕36,http://nhljz.net:35455/itv/3000000010000015470.m3u8
 赛事咪咕36,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227387/index.m3u8
 赛事咪咕36,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
+赛事咪咕36,http://tv.076262.xyz:35455/itv/3000000010000015470.m3u8
 赛事咪咕36,http://nas.suntao.online:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
 赛事咪咕37,http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
 赛事咪咕37,http://61.160.112.102:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
@@ -976,6 +998,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕37,http://nhljz.net:35455/itv/3000000010000015560.m3u8
 赛事咪咕37,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227390/index.m3u8
 赛事咪咕37,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8
+赛事咪咕37,http://tv.076262.xyz:35455/itv/3000000010000015560.m3u8
 赛事咪咕37,http://nas.suntao.online:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
 赛事咪咕43,http://61.160.112.102:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
 赛事咪咕43,http://58.39.190.143:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
@@ -983,6 +1006,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕43,http://nhljz.net:35455/itv/3000000010000019839.m3u8
 赛事咪咕43,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
 赛事咪咕43,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8
+赛事咪咕43,http://tv.076262.xyz:35455/itv/3000000010000019839.m3u8
 赛事咪咕43,http://nas.suntao.online:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
 赛事咪咕45,http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
 赛事咪咕45,http://61.160.112.102:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
@@ -992,6 +1016,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕45,http://nhljz.net:35455/itv/3000000010000021904.m3u8
 赛事咪咕45,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
 赛事咪咕45,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+赛事咪咕45,http://tv.076262.xyz:35455/itv/3000000010000021904.m3u8
 赛事咪咕45,http://nas.suntao.online:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
 赛事咪咕46,http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
 赛事咪咕46,http://61.160.112.102:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
@@ -1001,6 +1026,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕46,http://nhljz.net:35455/itv/3000000010000023434.m3u8
 赛事咪咕46,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
 赛事咪咕46,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8
+赛事咪咕46,http://tv.076262.xyz:35455/itv/3000000010000023434.m3u8
 赛事咪咕46,http://nas.suntao.online:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
 赛事咪咕49,http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
 赛事咪咕49,http://61.160.112.102:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
@@ -1010,8 +1036,8 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕49,http://nhljz.net:35455/itv/3000000010000025380.m3u8
 赛事咪咕49,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227430/index.m3u8
 赛事咪咕49,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+赛事咪咕49,http://tv.076262.xyz:35455/itv/3000000010000025380.m3u8
 赛事咪咕49,http://nas.suntao.online:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-赛事咪咕49,http://nas.suntao.online:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 赛事咪咕53,http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
 赛事咪咕53,http://111.22.153.159:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 赛事咪咕53,http://61.160.112.102:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
@@ -1020,8 +1046,8 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕53,http://nhljz.net:35455/itv/3000000010000027691.m3u8
 赛事咪咕53,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
 赛事咪咕53,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
+赛事咪咕53,http://tv.076262.xyz:35455/itv/3000000010000027691.m3u8
 赛事咪咕53,http://nas.suntao.online:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-赛事咪咕53,http://nas.suntao.online:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 赛事咪咕54,http://61.160.112.102:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 赛事咪咕54,http://111.22.153.159:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 赛事咪咕54,http://58.39.190.143:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
@@ -1029,6 +1055,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕54,http://nhljz.net:35455/itv/3000000010000031669.m3u8
 赛事咪咕54,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 赛事咪咕54,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+赛事咪咕54,http://tv.076262.xyz:35455/itv/3000000010000031669.m3u8
 赛事咪咕54,http://nas.suntao.online:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 赛事咪咕54,http://nas.suntao.online:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 赛事咪咕56,http://61.160.112.102:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
@@ -1102,8 +1129,8 @@ UFC格斗18,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926e
 劲爆体育,http://www.terrykang.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 劲爆体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8
-劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 睛彩竞技,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
