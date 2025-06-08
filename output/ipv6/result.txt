@@ -207,6 +207,7 @@ CCTV4欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/
 第一剧场,https://www.zhixun.com.mp/zx.php
 第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8
 第一剧场,http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
+第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8
 发现之旅,http://[2409:8087:2801:22:100::73]/wh7f454c46tw3958323208_1188361305/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8
 风云剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8
 风云剧场,http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225700/10000100000000060000000000146058_0.smil/index.m3u8
@@ -225,11 +226,14 @@ CCTV4欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
+央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/1.m3u8
 高尔夫网球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227496/index.m3u8
 高尔夫网球,http://[2409:8087:2801:22:100::36]/wh7f454c46tw3921544661_291482569/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8
 高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8
 高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
 怀旧剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 怀旧剧场,http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
@@ -871,7 +875,6 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 赛事咪咕11,http://nhljz.net:35455/itv/3000000001000031494.m3u8
 赛事咪咕11,http://tv.076262.xyz:35455/itv/3000000001000031494.m3u8
 赛事咪咕11,http://nas.suntao.online:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-赛事咪咕12,http://61.160.112.102:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 赛事咪咕12,http://111.22.153.159:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 赛事咪咕12,http://58.39.190.143:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 赛事咪咕12,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
@@ -1223,6 +1226,8 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
+央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 
 🍎韩国频道,#genre#
 ABN TV,https://vod2.abn.co.kr/IPHONE/abn.m3u8
