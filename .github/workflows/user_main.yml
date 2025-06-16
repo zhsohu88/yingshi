@@ -1,8 +1,8 @@
 name: '更新计划'
 
 on:
-  schedule:
-    - cron: '0 1 * * *'
+  # schedule:
+    # - cron: '0 1 * * *'
   workflow_dispatch:
     branches:
       - master
