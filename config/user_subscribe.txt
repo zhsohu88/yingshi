@@ -31,10 +31,6 @@ https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt
 https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 # 野火LIVE
 https://pastebin.com/raw/V0BhYHF4
-# 欧歌vjj
-https://欧歌vjj.u.nxog.top/m/tv/
-# 欧歌AI直播
-https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 # 码点影仓
 http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 # 易看电视
