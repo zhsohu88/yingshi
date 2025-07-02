@@ -109,6 +109,7 @@ CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LST
 大连影院
 大连少儿
 
+辽宁卫视
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8$!
 辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8$!
 辽宁公共,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8$!
