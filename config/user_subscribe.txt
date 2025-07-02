@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
 # 自己添加的订阅源
 # https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 # https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
 # https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
