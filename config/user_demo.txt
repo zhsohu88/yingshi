@@ -101,8 +101,11 @@ CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LST
 
 ☘️辽宁频道,#genre#
 大连综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond$!
+大连综合,http://zb.hmysapp.cn:801/dft/liaoning/dalian.php?id=dlzh$!
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond$!
+大连生活,http://zb.hmysapp.cn:801/dft/liaoning/dalian.php?id=dlsh$!
 大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?p?zliaond$!
+大连文体,http://zb.hmysapp.cn:801/dft/liaoning/dalian.php?id=dlwt$!
 大连影院
 大连少儿
 辽宁北方
