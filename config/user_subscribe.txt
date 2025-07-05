@@ -32,7 +32,7 @@ https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 # 野火LIVE
 https://pastebin.com/raw/V0BhYHF4
 # 码点影仓
-http://mdxgh.tpddns.cn:9999/new/mdzb.txt
+# http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 # 易看电视
 http://117.72.68.25:9230/latest.txt
 # 海燕直播
@@ -42,7 +42,7 @@ http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 # 拾光ITV
 https://4708.kstore.space/svip/ITV.txt
 # 小苹果，蜗牛线路[测试2]
-http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
+# http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
 # 电视家9.0-2025
 # http://8.138.7.223/2025.txt
 
@@ -64,7 +64,7 @@ https://3043.kstore.space/bhvip/bhzb.txt
 # 肥猫  同源 猫TV 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)
 http://rihou.cc:555/gggg.nzk
 # 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)  同源 猫TV 肥猫
-# http://rihou.cc:567/gggg.nzk
+http://rihou.cc:567/gggg.nzk
 
 # https://github.com/1757580896 的地址
 https://raw.githubusercontent.com/1757580896/iptv-api1/refs/heads/master/output/result.txt
