@@ -2176,6 +2176,8 @@ http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="🤾🏻体育频道",山东体育
 http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🤾🏻体育频道",纬来体育
+http://live.catvod.com/smart.php?id=videolandsport
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🤾🏻体育频道",纬来体育
 https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/先锋乒羽.png" group-title="🤾🏻体育频道",先锋乒羽
 http://wouu.net:9977/udp/239.93.42.56:5140
@@ -2185,6 +2187,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/1.m3u8
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8
 #EXTINF:-1 tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/WWE.png" group-title="🤾🏻体育频道",WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/WWE.png" group-title="🤾🏻体育频道",WWE
+http://live.catvod.com/smart.php?id=Wwe
 #EXTINF:-1 tvg-name="红牛TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红牛TV.png" group-title="🤾🏻体育频道",红牛TV
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-name="F1赛车" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/F1赛车.png" group-title="🤾🏻体育频道",F1赛车
@@ -2221,8 +2225,12 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
 #EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯网球.png" group-title="🤾🏻体育频道",博斯网球
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bositennis_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯网球.png" group-title="🤾🏻体育频道",博斯网球
+http://live.catvod.com/smart.php?id=bositennis_twn
 #EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯运动1.png" group-title="🤾🏻体育频道",博斯运动1
 http://108.181.20.197/livehttpplay?channel_id=10131
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯运动1.png" group-title="🤾🏻体育频道",博斯运动1
+http://live.catvod.com/smart.php?id=bosisport1_twn
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🤾🏻体育频道",超级体育
 http://[2409:8087:74d4:21::36]/270000001128/9900000020/1.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🤾🏻体育频道",超级体育
@@ -2426,6 +2434,8 @@ https://live.tvfix.org/live/tvn/index.m3u8
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVN.png" group-title="🍎韩国频道",TVN
 https://zjtv01.tv12.xyz/tvN
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVN.png" group-title="🍎韩国频道",TVN
+http://live.catvod.com/smart.php?id=TVN
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVN.png" group-title="🍎韩国频道",TVN
 https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="W Shopping" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/W Shopping.png" group-title="🍎韩国频道",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
@@ -2451,6 +2461,38 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻.png" group-title="🍎韩国频道",新闻
 http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+#EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/彩虹e.png" group-title="💎直播🔞_9",彩虹e
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8560/live1212.m3u8
+#EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/彩虹e.png" group-title="💎直播🔞_9",彩虹e
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8560/live1212.m3u8
+#EXTINF:-1 tvg-name="奇频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇频道.png" group-title="💎直播🔞_9",奇频道
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8557/live1209.m3u8
+#EXTINF:-1 tvg-name="奇频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇频道.png" group-title="💎直播🔞_9",奇频道
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8557/live1209.m3u8
+#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/彩虹电影.png" group-title="💎直播🔞_9",彩虹电影
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8558/live1210.m3u8
+#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/彩虹电影.png" group-title="💎直播🔞_9",彩虹电影
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8558/live1210.m3u8
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/惊艳.png" group-title="💎直播🔞_9",惊艳
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8562/live1214.m3u8
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/惊艳.png" group-title="💎直播🔞_9",惊艳
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8562/live1214.m3u8
+#EXTINF:-1 tvg-name="松视壹" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松视壹.png" group-title="💎直播🔞_9",松视壹
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8559/live1211.m3u8
+#EXTINF:-1 tvg-name="松视壹" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松视壹.png" group-title="💎直播🔞_9",松视壹
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8559/live1211.m3u8
+#EXTINF:-1 tvg-name="松视贰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松视贰.png" group-title="💎直播🔞_9",松视贰
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8561/live1213.m3u8
+#EXTINF:-1 tvg-name="松视贰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松视贰.png" group-title="💎直播🔞_9",松视贰
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8561/live1213.m3u8
+#EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潘多拉.png" group-title="💎直播🔞_9",潘多拉
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8564/live1216.m3u8
+#EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潘多拉.png" group-title="💎直播🔞_9",潘多拉
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8564/live1216.m3u8
+#EXTINF:-1 tvg-name="香蕉极限高限" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香蕉极限高限.png" group-title="💎直播🔞_9",香蕉极限高限
+http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8566/live1218.m3u8
+#EXTINF:-1 tvg-name="香蕉极限高限" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香蕉极限高限.png" group-title="💎直播🔞_9",香蕉极限高限
+http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8566/live1218.m3u8
 #EXTINF:-1 tvg-name="激情9频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/激情9频道.png" group-title="💎直播🔞_9",激情9频道
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 #EXTINF:-1 tvg-name="肛交" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/肛交.png" group-title="💎直播🔞_9",肛交
