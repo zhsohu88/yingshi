@@ -646,7 +646,7 @@ CGTN俄语,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/888888
 新疆卫视,http://39.134.67.110/PLTV/88888888/224/3221225999/1.m3u8
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 新疆卫视,http://j.x.bkpcp.top/jx/XJWS
-新疆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.m3u8
+新疆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
 延边卫视,http://39.134.65.181/PLTV/88888888/224/3221226040/1.m3u8
 延边卫视,http://39.134.65.207/PLTV/88888888/224/3221226040/1.m3u8
 延边卫视,http://39.134.65.209/PLTV/88888888/224/3221226040/1.m3u8
@@ -1060,8 +1060,8 @@ UFC格斗18,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926e
 劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,http://www.terrykang.xyz:35455/itv/5000000002000029972.m3u8
-劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 睛彩竞技,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
 睛彩竞技,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
@@ -1106,9 +1106,7 @@ beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8
 CampusLore (720p),https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 Canal do Inter (720p) [Not 24/7],https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 ELTA体育1,http://108.181.20.197/livehttpplay?channel_id=20043
-ELTA体育1,http://j.s.bkpcp.top/jj/aedty1
 ELTA体育2,http://108.181.20.197/livehttpplay?channel_id=20107
-ELTA体育2,http://j.s.bkpcp.top/jj/aedty2
 FTV足球,http://nas.hssvm.com:8888/udp/225.1.2.83:5002
 M-Net Sport (720p),http://ares.mnet.mk/hls/mnet-sport.m3u8
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
