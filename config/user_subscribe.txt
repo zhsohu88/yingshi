@@ -66,7 +66,7 @@ https://3043.kstore.space/bhvip/bhzb.txt
 # 肥猫  同源 猫TV 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)
 # http://rihou.cc:555/gggg.nzk/
 # 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)  同源 猫TV 肥猫
-http://rihou.cc:567/gggg.nzk/
+# http://rihou.cc:567/gggg.nzk/
 
 # https://github.com/1757580896 的地址
 https://raw.githubusercontent.com/1757580896/iptv-api1/refs/heads/master/output/result.txt
