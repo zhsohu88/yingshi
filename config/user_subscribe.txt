@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
 # 拾光｜影仓0312
 https://4708.kstore.space/svip/ITV.txt
 # 月光宝盒
-https://ygbh.site/bh.txt
+https://3043.kstore.space/bhvip/bhzb.txt
 # NEW直播
 https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt
 # 七星itv
@@ -41,6 +41,8 @@ https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
 http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 # 拾光ITV
 https://4708.kstore.space/svip/ITV.txt
+# 幸福年年
+https://raw.githubusercontent.com/leiyou-li/666IPTV/main/ipv4.1.txt
 # 小苹果，蜗牛线路[测试2]
 # http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
 # 电视家9.0-2025
