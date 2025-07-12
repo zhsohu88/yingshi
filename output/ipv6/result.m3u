@@ -2084,9 +2084,9 @@ http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🤾🏻体育频道",广东体育
 http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🤾🏻体育频道",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🤾🏻体育频道",广东体育
 http://cdn2.132.us.kg/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🤾🏻体育频道",广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🤾🏻体育频道",广东体育
 http://php.jdshipin.com/TVOD/iptv.php
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🤾🏻体育频道",广东体育
@@ -2193,8 +2193,12 @@ https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTA体育1.png" group-title="🤾🏻体育频道",ELTA体育1
 http://108.181.20.197/livehttpplay?channel_id=20043
+#EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTA体育1.png" group-title="🤾🏻体育频道",ELTA体育1
+http://j.s.bkpcp.top/jj/aedty1
 #EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTA体育2.png" group-title="🤾🏻体育频道",ELTA体育2
 http://108.181.20.197/livehttpplay?channel_id=20107
+#EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTA体育2.png" group-title="🤾🏻体育频道",ELTA体育2
+http://j.s.bkpcp.top/jj/aedty2
 #EXTINF:-1 tvg-name="FTV足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/FTV足球.png" group-title="🤾🏻体育频道",FTV足球
 http://nas.hssvm.com:8888/udp/225.1.2.83:5002
 #EXTINF:-1 tvg-name="M-Net Sport (720p)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/M-Net Sport (720p).png" group-title="🤾🏻体育频道",M-Net Sport (720p)
