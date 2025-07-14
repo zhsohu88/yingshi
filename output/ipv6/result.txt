@@ -668,7 +668,7 @@ CGTN俄语,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/888888
 云南卫视,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226816/index.m3u8
 云南卫视,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226816/index.m3u8
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
-云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
+云南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
 浙江卫视,http://39.134.65.141/PLTV/88888888/224/3221225514/1.m3u8
 浙江卫视,http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
 浙江卫视,http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8
@@ -1054,6 +1054,7 @@ UFC格斗18,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926e
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
@@ -1107,9 +1108,7 @@ beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8
 CampusLore (720p),https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 Canal do Inter (720p) [Not 24/7],https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 ELTA体育1,http://108.181.20.197/livehttpplay?channel_id=20043
-ELTA体育1,http://j.s.bkpcp.top/jj/aedty1
 ELTA体育2,http://108.181.20.197/livehttpplay?channel_id=20107
-ELTA体育2,http://j.s.bkpcp.top/jj/aedty2
 FTV足球,http://nas.hssvm.com:8888/udp/225.1.2.83:5002
 M-Net Sport (720p),http://ares.mnet.mk/hls/mnet-sport.m3u8
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
@@ -1222,6 +1221,7 @@ Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
 TVN,https://live.tvfix.org/live/tvn/index.m3u8
 TVN,https://zjtv01.tv12.xyz/tvN
 TVN,https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
+TVN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 WBC,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 YTN,http://210.92.207.38:40001
