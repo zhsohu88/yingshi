@@ -233,7 +233,6 @@ CCTV4欧洲,http://live.catvod.com/catvod.php
 文化精品,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
 百姓健康,https://play-hsbj.vzan.com/2146882248/645899275683339739/live.m3u8
 中学生,http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225663/10000100000000060000000000145885_0.smil/index.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://php.jdshipin.com/TVOD/iptv.php
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227438/index.m3u8
@@ -741,6 +740,7 @@ CGTN俄语,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/888888
 辽宁影视,http://39.134.59.148:80/wh7f454c46tw3897936519_-1350344239/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8?icpid=11&RTS=1751431431&from=34&ocs=2_39.134.58.172_80&hms_devid=1426&online=1751431431&vqe=3
 
 ♦️棋牌频道,#genre#
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,http://111.20.21.163/live/488743rAHScWyyII_2000.flv?302_type=cold_aggr&_session_id=1343553445.n.cn-z9w724.mt5f_1421068&cac=1&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1a%2F488743rAHScWyyII_2000.flv%3FwsAuth%3Dfd695c444eeee99cc6122ed396c805ba%26token%3Dcpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay2&logo=0&manage_ip=&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-z9w724.mt5f.nss&redirect_from_ip=183.201.192.138&redirect_to=fc.cn-h58z42&redirect_to_ip=111.20.21.163&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&vhost=tc-tct.douyucdn2.cn&wsAuth=fd695c444eeee99cc6122ed396c805ba
 JJ斗地主,http://211.101.234.24:68/公众号猫月牙/douyu.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
@@ -1021,6 +1021,7 @@ CCTV5+,http://39.134.65.211/PLTV/88888888/224/3221225507/1.m3u8
 CCTV5+,http://39.134.65.213/PLTV/88888888/224/3221225507/1.m3u8
 CCTV5+,http://39.134.65.215/PLTV/88888888/224/3221225507/1.m3u8
 CCTV高清,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 咪咕视频,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 咪咕视频,http://39.134.67.108/PLTV/88888888/224/3221226027/1.m3u8
 UFC格斗之夜1,https://txmov2.a.yximgs.com/bs3/video-hls/5189554226836202631_hlsb.m3u8?pkey=AAXSV7JAeO9odQjnMgyNIfPEebdRZsIbqDtZjPmCcngq2T3CpRqckqi4KWLMTP6c530T9vGf4V4Bhg9Zcy5rxoPU7dgU_WZCVRaBoyDNV2K2QZ93qPGe-Jav6ZOTDAYZP1k
@@ -1126,7 +1127,7 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 精品体育,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 精品体育,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 精品体育,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
-精品体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+精品体育,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8
 魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
 魅力足球,http://www.terrykang.xyz:35455/itv/5000000011000031207.m3u8
@@ -1154,9 +1155,6 @@ CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a3
 DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 EBS i,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 EBS kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 FGTV,https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 GCN24 Korean,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
 Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
@@ -1170,7 +1168,6 @@ Hyundai Home Shopping Plus,https://dtvstreaming.hyundaihmall.com/newcjp3/_defins
 JCN TV,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 JTBC,https://everylive.space/live/jtbc/livestream.m3u8
-KBC | SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBC TV,http://112.175.51.214:1935/live/myStream/playlist.m3u8
 KBC|SBS,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
 KBS 1,http://mytv.dothome.co.kr/ch/public/1.php
@@ -1189,11 +1186,9 @@ KCTV1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8
 KFN,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 KNN SBS,https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-Korean Song Channel,http://live.kytv.co.kr:8080/hls/stream.m3u8
 Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 Lotte OneTV,https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 MAD,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-MBC,http://142.4.119.231:9080/hls/2548359mr.m3u8
 MBC M,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
@@ -1213,11 +1208,8 @@ TVN,https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
 W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 WBC,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 YTN,http://210.92.207.38:40001
-阿里郎Korea,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 大田MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 韩国歌舞,https://vd3.bdstatic.com/mda-kasdx4z9kq62e918/sc/mda-kasdx4z9kq62e918.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
-济州MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-江原岭东MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 丽水MBC,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 庆南昌原本部MBC,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
