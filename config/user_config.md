@@ -9,7 +9,7 @@
 |open_hotel_foodie|开启Foodie酒店源工作模式|True|False
 |open_hotel_fofa|开启FOFA、ZoomEye酒店源工作模式|False|
 |open_local|开启本地源功能，将使用模板文件与本地源文件中的数据|True|
-|open_m3u_result|开启转换生成m3u文件类型结果链接，支持显示频道图标|True|False
+|open_m3u_result|开启转换生成m3u文件类型结果链接，支持显示频道图标|True|
 |open_multicast|开启组播源功能，关闭后所有组播源工作模式都将关闭|False|
 |open_multicast_foodie|开启Foodie组播源工作模式|True|False
 |open_multicast_fofa|开启FOFA组播源工作模式|False|
