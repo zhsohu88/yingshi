@@ -1,14 +1,14 @@
 📺央视频道,#genre#
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
 CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV1,http://go.bkpcp.top/mg/cctv10
 CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv10
 CCTV1,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.65.198/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.65.200/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.65.211/PLTV/88888888/224/3221225816/1.m3u8
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
@@ -99,6 +99,9 @@ CCTV9,http://39.134.65.196/PLTV/88888888/224/3221225676/1.m3u8
 CCTV9,http://39.134.65.200/PLTV/88888888/224/3221225676/1.m3u8
 CCTV9,http://39.134.65.207/PLTV/88888888/224/3221225676/1.m3u8
 CCTV9,http://39.134.65.209/PLTV/88888888/224/3221225676/1.m3u8
+CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+CCTV10,http://go.bkpcp.top/mg/cctv10
+CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
 CCTV10,http://39.134.65.141/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.65.175/PLTV/88888888/224/3221225677/1.m3u8
@@ -106,9 +109,6 @@ CCTV10,http://39.134.65.194/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.65.196/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.65.207/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.65.209/PLTV/88888888/224/3221225677/1.m3u8
-CCTV10,http://39.134.65.211/PLTV/88888888/224/3221225677/1.m3u8
-CCTV10,http://39.134.65.213/PLTV/88888888/224/3221225677/1.m3u8
-CCTV10,http://39.134.65.215/PLTV/88888888/224/3221225677/1.m3u8
 CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
 CCTV11,http://go.bkpcp.top/mg/cctv11
 CCTV11,http://t.061899.xyz/tl/tl.php?id=cctv11
@@ -179,7 +179,6 @@ CCTV17,http://39.134.65.207/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://39.134.65.209/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://39.134.65.215/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://39.134.65.239/PLTV/88888888/224/3221225708/1.m3u8
-CCTV高清,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
@@ -228,13 +227,11 @@ CCTV4欧洲,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/inde
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/1.m3u8
 高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 高尔夫网球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227496/index.m3u8
 高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-高尔夫网球,http://[2409:8087:74d4:21::36]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
 怀旧剧场,http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
 怀旧剧场,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
 怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
@@ -1198,7 +1195,6 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0#http://hy.baojihzjc.com:9001/udp/239.111.205.70:5140
 
 🍎韩国频道,#genre#
 ABN TV,https://vod2.abn.co.kr/IPHONE/abn.m3u8
